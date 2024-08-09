@@ -1,1 +1,1 @@
-instance_name = t2.small
+instance_name = "t2.micro"
